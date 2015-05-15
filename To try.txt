@@ -1,0 +1,8 @@
+Strategies to try:
+[Done] 1. Ensembles
+	- Avg the 3 AdaBoosts
+	- Avg the 2 Gradboosts
+[Done] 2. Treat Friday, Saturday and Sunday separately from the rest
+3. Cluster, then predict (aka different models for different news)
+4. Try XGBoost?
+5. Try Neural Nets?
